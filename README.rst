@@ -2,6 +2,8 @@
 Eini - An Erlang INI parser
 ###########################
 
+**NOTICE** This project is no longer maintained. If you need the latest version, we recommend you `erlcloud/eini <https://github.com/erlcloud/eini>`_.
+
 :Original: https://github.com/devinus/zucchini
 
 Example
